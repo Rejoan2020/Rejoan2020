@@ -10,7 +10,7 @@ I started basic coding with c before admitting into university. Then I learned J
 
 *   🌍  I'm based in Dhaka,Bangladesh.
 *   ✉️  You can contact me at [md.rejoanurrahman.apu@gmail.com](mailto:md.rejoanurrahman.apu@gmail.com)
-*   🧠  I'm currently practicing React and Flutter.
+*   🧠  I'm currently django and react.
 *   🤝  I'm open to collaborating on almost any project where I will have the chance to apply my problem-solving and coding skills.
   <h1>Skills </h1>
 <p align="left">
