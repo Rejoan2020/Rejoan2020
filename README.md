@@ -27,13 +27,14 @@ I started basic coding with c before admitting into university. Then I learned J
 <a href="https://vjudge.net/user/RejoanVJ" target="blank"><img align="center" src="https://github.com/Rejoan2020/Rejoan2020/assets/63773925/27baab0c-a771-4f94-acd0-3dc62e9160dd" alt="rejoan2020" height="40" width="60" /></a>
 <a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="rejoan2020" height="40" width="60" /></a>
 </p>
+<p>
 ## 🌟 Projects
 <ul>
   <li><strong>TodoList:</strong> A basic TodoList which can perform Create,Read,Update and Delete operations. </br>Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].</li>
   <li><strong>SnapShort:</strong> An URL-shortener where the MVT pattern with Django Framework is implemented. </br>Technologies used: [Python,Django,HTML,CSS].</li>
   <li><strong>Text editor:</strong> A basic text editor (Desktop App) with couple of features (i.e. font size/color/fonts,alignments,find & replace, file menu etc). </br>Technologies used: [Python,Tkinter].</li>
 </ul>
-
+</p>
 ## 💻 Work Experience
 - B-jet, [Trainee], [From 2/10/2023 to now]<br/>
   Here I am polishing my communication skills, career grooming, leaning japanese as well as getting IT training on git and github.
