@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Md. Rejoanur Rahman Apu 👋</h1>
 <h3 align="left">Software Engineer | Trainee at B-jet</h3>
 
-I started basic coding with c before admitting into university. Then I learned Java and its OOP concept. I kept learning and exploring more with Java. Then I started problem-solving in different online judges. Solving problems with coding attracted me. So, I learned C++ and started to solving problems in different online judges. Now, I am implementing my coding skills and knowledge with different frameworks.
+I started basic coding with c before admitting into university. Then I learned Java and its OOP concept. I kept learning and exploring more with Java. Then I started problem-solving in different online judges. Solving problems with coding attracted me. So, I learned C++ and started to solving problems in different online judges.Then I learned Python,Django,MVT pattern,DRF,Javascript,React. Currently I am nourishing my knowledge on these technologies by working on real-life projects also implementing my coding and problem-solving skills.
 
 *   🌍  I'm based in Dhaka,Bangladesh.
 *   ✉️  You can contact me at [md.rejoanurrahman.apu@gmail.com](mailto:md.rejoanurrahman.apu@gmail.com)
