@@ -54,9 +54,11 @@ I like to watch and play football.
   
 ## 🎓 Education
 - Brac University, [BSc on CSE], [05/2023]
-- 
+  
 ## 👨‍💻 Online Coding profiles
 <a href="https://codeforces.com/profile/Rejoan" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--N2_RJe5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cer3l19eex0wy900b101.jpg" alt="rejoan2020" height="30" width="40" /></a>
-<tab></tab>
 <a href="https://leetcode.com/Rejoan/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="rejoan2020" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank"><img align="center" src="https://cdn.allmylinks.com/prod/Site/favicon/m/9/U/pBdjRQsz7PxaEMMhgntB_nN0VcZmQVcQ.ico" alt="rejoan2020" height="30" width="40" /></a>
+<a href="https://vjudge.net/user/RejoanVJ" target="blank"><img align="center" src="![vjudge](https://github.com/Rejoan2020/Rejoan2020/assets/63773925/27baab0c-a771-4f94-acd0-3dc62e9160dd)
+" alt="rejoan2020" height="30" width="40" /></a>
 
