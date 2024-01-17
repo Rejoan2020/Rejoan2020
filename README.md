@@ -1,4 +1,4 @@
-<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+![best project](https://github.com/Rejoan2020/Rejoan2020/assets/63773925/1ca9de01-6321-42bb-9a4d-e9f2a4e03fe8)<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Md. Rejoanur Rahman Apu 👋</h1>
 <h3 align="left">Software Engineer | Trainee at B-jet</h3>
 
@@ -41,26 +41,24 @@ I like to watch and play football.
 
 
 ## 💻 Work Experience
-- Company Name, [Job Title], [Employment Dates]<br />
-  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
-- Company Name, [Job Title], [Employment Dates]<br />
-  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
-
+- B-jet, [Trainee], [From 2/10/2023 to now]<br/>
+  Here I am polishing my communication skills, career grooming, leaning japanese as well as getting IT training on git and github.
+  
 ## 🎓 Education
-- University Name, [Degree], [Graduation Date]
-- University Name, [Degree], [Graduation Date]
-
-## 📚 Training
-- [List of training courses you've completed]
-- [List of certifications you've earned]
+- Brac University, [BSc on CSE], [05/2023]
 
 ## 🏆 Achievements
 - [List of professional achievements, such as awards, recognitions, or honors]
 - [List of projects you've completed that you're particularly proud of]
 
 ## 💻 Coding Contest Participation Record
-- [Name of the coding contest], [Rank], [Year]
-- [Name of the coding contest], [Rank], [Year]
+- [Meta Hacker Cup], [2561st(round-2)], [2023]
+- [Google Code Jam Farewell Round A], [solved 3/5], [2023]
+- [2022 ICPC Asia Dhaka Regional Online Preliminary Contest],[3rd in University],[2023]
+- [IUPC (Ahmed Zobayer Inter-University Programming Contest, UITS)][15th][2023]
+- [IEEEXtreme 16.0], [9th in country & 731st globally], [2022]
+- [BRAC University Programming Contest 2022][7th][2022]
+- 
 
 ## 📈 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uksaha77&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
