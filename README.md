@@ -1,4 +1,4 @@
-![best project](https://github.com/Rejoan2020/Rejoan2020/assets/63773925/1ca9de01-6321-42bb-9a4d-e9f2a4e03fe8)<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Md. Rejoanur Rahman Apu 👋</h1>
 <h3 align="left">Software Engineer | Trainee at B-jet</h3>
 
