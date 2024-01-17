@@ -48,7 +48,7 @@ I like to watch and play football.
 <a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="rejoan2020" height="30" width="40" /></a>
 </p>
 ## 🌟 Projects
- - <strong>TodoList:</strong>strong> A basic TodoList which can perform Create,Read,Update and Delete operations. Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].
+ - <strong>TodoList:</strong> A basic TodoList which can perform Create,Read,Update and Delete operations. Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].
  - <strong>SnapShort:</strong> An URL-shortener where the MVT pattern with Django Framework is implemented. Technologies used: [Python,Django,HTML,CSS].
  - <strong>Text editor:</strong> A basic text editor (Desktop App) with couple of features (i.e. font size/color/fonts,alignments,find & replace, file menu etc). Technologies used: [Python,Tkinter].
 
