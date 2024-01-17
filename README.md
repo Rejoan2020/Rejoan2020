@@ -39,18 +39,18 @@ I like to watch and play football.
 - [IUPC (Ahmed Zobayer Inter-University Programming Contest, UITS)][15th][2023]
 - [IEEEXtreme 16.0], [9th in country & 731st globally], [2022]
 - [BRAC University Programming Contest 2022][7th][2022]
-  
+  <p>
 ## 👨‍💻 Online Coding profiles
 <a href="https://codeforces.com/profile/Rejoan" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--N2_RJe5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cer3l19eex0wy900b101.jpg" alt="rejoan2020" height="30" width="40" /></a>
 <a href="https://leetcode.com/Rejoan/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="rejoan2020" height="30" width="40" /></a>
 <a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank"><img align="center" src="https://cdn.allmylinks.com/prod/Site/favicon/m/9/U/pBdjRQsz7PxaEMMhgntB_nN0VcZmQVcQ.ico" alt="rejoan2020" height="30" width="40" /></a>
 <a href="https://vjudge.net/user/RejoanVJ" target="blank"><img align="center" src="https://github.com/Rejoan2020/Rejoan2020/assets/63773925/27baab0c-a771-4f94-acd0-3dc62e9160dd" alt="rejoan2020" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="rejoan2020" height="30" width="40" /></a>
-
+</p>
 ## 🌟 Projects
- - <strong>TodoList:<strong/> A basic TodoList which can perform Create,Read,Update and Delete operations. Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].
- - SnapShort: An URL-shortener where the MVT pattern with Django Framework is implemented. Technologies used: [Python,Django,HTML,CSS].
- - Text editor: A basic text editor (Desktop App) with couple of features (i.e. font size/color/fonts,alignments,find & replace, file menu etc). Technologies used: [Python,Tkinter].
+ - <strong>TodoList:</strong>strong> A basic TodoList which can perform Create,Read,Update and Delete operations. Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].
+ - <strong>SnapShort:</strong> An URL-shortener where the MVT pattern with Django Framework is implemented. Technologies used: [Python,Django,HTML,CSS].
+ - <strong>Text editor:</strong> A basic text editor (Desktop App) with couple of features (i.e. font size/color/fonts,alignments,find & replace, file menu etc). Technologies used: [Python,Tkinter].
 
 ## 💻 Work Experience
 - B-jet, [Trainee], [From 2/10/2023 to now]<br/>
