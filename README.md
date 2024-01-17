@@ -32,6 +32,14 @@ I like to watch and play football.
 ## 🚀 Skills
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p> 
 
+## 💻 Coding Contest Participation Record
+- [Meta Hacker Cup], [2561st(round-2)], [2023]
+- [Google Code Jam Farewell Round A], [solved 3/5], [2023]
+- [2022 ICPC Asia Dhaka Regional Online Preliminary Contest],[3rd in University],[2023]
+- [IUPC (Ahmed Zobayer Inter-University Programming Contest, UITS)][15th][2023]
+- [IEEEXtreme 16.0], [9th in country & 731st globally], [2022]
+- [BRAC University Programming Contest 2022][7th][2022]
+- 
 ## 🌟 Projects
  - TodoList: A basic TodoList which can perform Create,Read,Update and Delete operations. Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].
  - SnapShort: An URL-shortener where the MVT pattern with Django Framework is implemented. Technologies used: [Python,Django,HTML,CSS].
@@ -47,17 +55,7 @@ I like to watch and play football.
 ## 🎓 Education
 - Brac University, [BSc on CSE], [05/2023]
 
-## 🏆 Achievements
-- [List of professional achievements, such as awards, recognitions, or honors]
+## 👨‍💻 Online Coding profiles
+- <a href="https://www.codeforces.com/rejoan/" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--N2_RJe5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cer3l19eex0wy900b101.jpg" alt="rejoan2020" height="30" width="40" /></a>
 - [List of projects you've completed that you're particularly proud of]
 
-## 💻 Coding Contest Participation Record
-- [Meta Hacker Cup], [2561st(round-2)], [2023]
-- [Google Code Jam Farewell Round A], [solved 3/5], [2023]
-- [2022 ICPC Asia Dhaka Regional Online Preliminary Contest],[3rd in University],[2023]
-- [IUPC (Ahmed Zobayer Inter-University Programming Contest, UITS)][15th][2023]
-- [IEEEXtreme 16.0], [9th in country & 731st globally], [2022]
-- [BRAC University Programming Contest 2022][7th][2022]
-  
-
-## 💻 Github Repositories
