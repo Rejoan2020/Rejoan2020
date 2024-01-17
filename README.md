@@ -47,7 +47,7 @@ I like to watch and play football.
 <a href="https://vjudge.net/user/RejoanVJ" target="blank"><img align="center" src="https://github.com/Rejoan2020/Rejoan2020/assets/63773925/27baab0c-a771-4f94-acd0-3dc62e9160dd" alt="rejoan2020" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="rejoan2020" height="30" width="40" /></a>
 </p>
-## 🌟 Projects
+<h1> 🌟 Projects</h1>
 o
 <ul>
   <li><strong>TodoList:</strong> A basic TodoList which can perform Create,Read,Update and Delete operations. Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].</li>
