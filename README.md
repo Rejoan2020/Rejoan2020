@@ -29,9 +29,9 @@ I started basic coding with c before admitting into university. Then I learned J
 </p>
 <h1> 🌟 Projects</h1>
 <ul>
-  <li><strong>TodoList:</strong> A basic TodoList which can perform Create,Read,Update and Delete operations. Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].</li>
-  <li><strong>SnapShort:</strong> An URL-shortener where the MVT pattern with Django Framework is implemented. Technologies used: [Python,Django,HTML,CSS].</li>
-  <li><strong>Text editor:</strong> A basic text editor (Desktop App) with couple of features (i.e. font size/color/fonts,alignments,find & replace, file menu etc). Technologies used: [Python,Tkinter].</li>
+  <li><strong>TodoList:</strong> A basic TodoList which can perform Create,Read,Update and Delete operations. Technologies used:[Python,Django,JSX,ReactJS,Bootstrap,CSS].</li>
+  <li><strong>SnapShort:</strong> An URL-shortener where the MVT pattern with Django Framework is implemented. Technologies used:[Python,Django,HTML,CSS].</li>
+  <li><strong>Text editor:</strong> A basic text editor (Desktop App) with couple of features (i.e. font size/color/fonts,alignments,find & replace, file menu etc). Technologies used:[Python,Tkinter].</li>
 </ul>
 
 ## 💻 Work Experience
