@@ -1,4 +1,3 @@
-<img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Md. Rejoanur Rahman Apu 👋</h1>
 <h3 align="left">Software Engineer | Trainee at B-jet</h3>
 
