@@ -29,12 +29,7 @@ I started basic coding with c before admitting into university. Then I learned J
   <li><a href="https://www.hackerrank.com/profile/rejoan523" target="blank">HackerRank</a></li>
 </ul>
 </p>
-<h2> 🌟 Projects</h2>
-<ul>
-  <li><strong>TodoList:</strong> A basic TodoList which can perform Create,Read,Update and Delete operations. </br>Technologies used: [Python,Django,JSX,ReactJS,Bootstrap,CSS].</li>
-  <li><strong>SnapShort:</strong> An URL-shortener where the MVT pattern with Django Framework is implemented. </br>Technologies used: [Python,Django,HTML,CSS].</li>
-  <li><strong>Text editor:</strong> A basic text editor (Desktop App) with couple of features (i.e. font size/color/fonts,alignments,find & replace, file menu etc). </br>Technologies used: [Python,Tkinter].</li>
-</ul>
+ 
 
 ## 💻 Work Experience
 - B-jet, [Trainee], [From 2/10/2023 to now]<br/>
