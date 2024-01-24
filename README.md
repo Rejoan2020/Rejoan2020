@@ -21,11 +21,13 @@ I started basic coding with c before admitting into university. Then I learned J
 - [BRAC University Programming Contest 2022][7th][2022]
   <p>
 ## 👨‍💻 Online Coding profiles
-<a href="https://codeforces.com/profile/Rejoan" target="blank">Codeforces</a>
-<a href="https://leetcode.com/Rejoan/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="rejoan2020" height="40" width="60" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank"><img align="center" src="https://cdn.allmylinks.com/prod/Site/favicon/m/9/U/pBdjRQsz7PxaEMMhgntB_nN0VcZmQVcQ.ico" alt="rejoan2020" height="40" width="60" /></a>
-<a href="https://vjudge.net/user/RejoanVJ" target="blank"><img align="center" src="https://github.com/Rejoan2020/Rejoan2020/assets/63773925/27baab0c-a771-4f94-acd0-3dc62e9160dd" alt="rejoan2020" height="40" width="60" /></a>
-<a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="rejoan2020" height="40" width="60" /></a>
+<ul>
+  <li><a href="https://codeforces.com/profile/Rejoan" target="blank">Codeforces</a></li>
+  <li><a href="https://leetcode.com/Rejoan/" target="blank">Leetcode</a></li>
+  <li><a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank">Beecrowd</a></li>
+  <li><a href="https://vjudge.net/user/RejoanVJ" target="blank">VJudge</a></li>
+  <li><a href="https://www.hackerrank.com/profile/rejoan523" target="blank">HackerRank</a></li>
+</ul>
 </p>
 <h2> 🌟 Projects</h2>
 <ul>
