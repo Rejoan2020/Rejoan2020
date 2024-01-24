@@ -37,16 +37,6 @@ I started basic coding with c before admitting into university. Then I learned J
 ## 🎓 Education
 - Brac University, [BSc on CSE], [05/2023]
 
-## 🧠 What I'm currently learning
-I'm currently brushing my practical knowledge of JavaScript,React,Python,Django to improve my development skills and stay up-to-date with the latest technologies. 
-
-## 💬 Ask me about
-- <b>Topics:</b> Problem-solving, competitive programming
-- <b>Technologies:</b> Python, Django, ReactJS, HTML, CSS, PostgreSQL
-
-## ⚡ Fun fact
-I like to watch and play football. 
-
 ## 📫 How to reach me
 <p align="left">
 
