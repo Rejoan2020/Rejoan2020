@@ -30,7 +30,7 @@ I started basic coding with c before admitting into university. Then I learned J
 
 ## 💻 Work Experience
 - B-jet, [Trainee], [From 2/10/2023 to now]<br/>
-  Here I am polishing my communication skills, career grooming, learning japanese as well as getting IT training on git and github.
+  Here I am polishing my communication skills, career grooming, learning japanese as well as getting IT training.
   
 ## 🎓 Education
 - Brac University, [BSc on CSE], [05/2023]
