@@ -1,13 +1,7 @@
-<h1>Hi there, I'm Md. Rejoanur Rahman Apu 👋</h1>
-<h3 align="left">Software Engineer | Trainee at B-jet</h3>
-
-I started basic coding with c before admitting into university. Then I learned Java and its OOP concept. I kept learning and exploring more with Java. Then I started problem-solving in different online judges. Solving problems with coding attracted me. So, I learned C++ and started to solving problems in different online judges.Then I learned Python,Django,MVT pattern,DRF,Javascript,React. Currently I am nourishing my knowledge on these technologies by working on real-life projects also implementing my coding and problem-solving skills.
-
-*   🌍  I'm from Dhaka,Bangladesh.
-*   ✉️  You can contact me at [md.rejoanurrahman.apu@gmail.com](mailto:md.rejoanurrahman.apu@gmail.com)
-
-  ## 🚀 Skills
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p> 
+<p align="center">
+  <h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2> 
+</p>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true)
 
 ## 💻 Coding Contest Participation Record
 - [Meta Hacker Cup], [stood among top20% in round-1 and participated in the round-2], [2023]
@@ -26,21 +20,79 @@ I started basic coding with c before admitting into university. Then I learned J
   <li><a href="https://www.hackerrank.com/profile/rejoan523" target="blank">HackerRank</a></li>
 </ul>
 </p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/{Mynuddin-dev}/count.svg" />
+</p>
  
 
-## 💻 Work Experience
-- B-jet, [Trainee], [From 2/10/2023 to now]<br/>
-  Here I am polishing my communication skills, career grooming, learning japanese as well as getting IT training.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Python](https://img.shields.io/badge/-DjangoRestFramework-05122A?style=flat&logo=djangorestframework)&nbsp;
+![Python](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Python](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![Python](https://img.shields.io/badge/-ReactBootstrap-05122A?style=flat&logo=ReactBootstrap)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-00173D?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-fede00?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-00173d?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)\
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
+![Windows-XP](https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white)
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
   
-## 🎓 Education
-- Brac University, [BSc on CSE], [05/2023]
+<a href="https://github.com/Mynuddin-dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rejoan2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rejoan2020&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  
 
-## 📫 How to reach me
-<p align="left">
-
-<a href="https://www.linkedin.com/in/rejoan-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rejoan007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
-</p><br/>
-
+  
+</p>
 
 
+
+ <p align="center">
+     <a href="https://github.com/Rejoan2020/github-readme-streak-stats">
+         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rejoan2020's streak"
+             src="https://github-readme-streak-stats.herokuapp.com/?user=Rejoan2020&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
+     </a>
+     <p align="center">🔥 Get streak stats for your profile at <a
+             href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+ </p>
+
+
+<p align="center">
+  
+  <h2 align="center"> 🙋‍♂️ Connect with me </h2>
+  <p align="center">
+  <a href="https://www.facebook.com/md.mynuddin.585" target="_blank"><img
+                src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
+        </a>&nbsp;
+  <a href="https://www.linkedin.com/in/md-mynuddin-6782a3161/" target="_blank"><img
+                src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+                </a>&nbsp;
+  <a href="https://github.com/Mynuddin-dev" target="_blank"><img
+                src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"> </a>
+                </center>&nbsp;
+</p>
+  
+</p>  
+
+
+      
