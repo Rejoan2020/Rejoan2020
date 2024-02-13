@@ -1,15 +1,15 @@
 <p align="center">
   <h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2> 
 </p>
-### 👨‍💻 &nbsp;Online Coding profiles
-
+👨‍💻 &nbsp;Online Coding profiles
+<p><
   <a href="https://codeforces.com/profile/Rejoan" target="blank">
-     <img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces" alt="Codeforces" width="60" height="20"> 
+     <img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces" alt="Codeforces" width="80" height="20"> 
   </a>
-  <a href="https://leetcode.com/Rejoan/" target="blank"><img src="https://img.shields.io/badge/-Leetcode-05122A?style=flat&logo=Leetcode" alt="Leetcode" width="60" height="20"> </a>
+  <a href="https://leetcode.com/Rejoan/" target="blank"><img src="https://img.shields.io/badge/-Leetcode-05122A?style=flat&logo=Leetcode" alt="Leetcode" width="80" height="20"> </a>
   <a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank"><img src="https://img.shields.io/badge/-Beecrowd-05122A?style=flat&logo=Beecrowd" alt="Beecrowd" width="60" height="20"> </a>
   <a href="https://vjudge.net/user/RejoanVJ" target="blank"><img src="https://img.shields.io/badge/-Vjudge-05122A?style=flat&logo=Vjudge" alt="Vjudge" width="60" height="20"> </a>
-  <a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=HackerRank" alt="HackerRank" width="60" height="20"> </a>
+  <a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=HackerRank" alt="HackerRank" width="80" height="20"> </a>
 </p>
 
 <p align="center"> 
