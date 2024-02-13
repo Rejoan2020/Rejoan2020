@@ -1,9 +1,12 @@
 <p align="center">
   <h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2> 
 </p>
-👨‍💻 &nbsp;Online Coding profiles
-</br>
+
+### 👨🏻‍💻 &nbsp;About Me
+- Problem solver | quick Learner
+
 <p>
+👨‍💻 &nbsp;Online Coding profiles
   <a href="https://codeforces.com/profile/Rejoan" target="blank">
      <img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces" alt="Codeforces" width="80" height="20"> 
   </a>
@@ -12,7 +15,7 @@
   <a href="https://vjudge.net/user/RejoanVJ" target="blank"><img src="https://img.shields.io/badge/-Vjudge-05122A?style=flat&logo=Vjudge" alt="Vjudge" width="60" height="20"> </a>
   <a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=HackerRank" alt="HackerRank" width="80" height="20"> </a>
 </p>
----
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{Rejoan2020}/count.svg" />
 </p>
