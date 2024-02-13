@@ -2,14 +2,14 @@
   <h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2> 
 </p>
 ## 👨‍💻 Online Coding profiles
-<ul>
-  <li><a href="https://codeforces.com/profile/Rejoan" target="blank">
-![Codeforces](https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces)&nbsp;</a></li>
-  <li><a href="https://leetcode.com/Rejoan/" target="blank">Leetcode</a></li>
-  <li><a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank">Beecrowd</a></li>
-  <li><a href="https://vjudge.net/user/RejoanVJ" target="blank">VJudge</a></li>
-  <li><a href="https://www.hackerrank.com/profile/rejoan523" target="blank">HackerRank</a></li>
-</ul>
+
+  <a href="https://codeforces.com/profile/Rejoan" target="blank">
+     <img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces" alt="Codeforces" width="500" height="600"> 
+  </a>
+  <a href="https://leetcode.com/Rejoan/" target="blank">Leetcode</a>
+  <a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank">Beecrowd</a>
+  <a href="https://vjudge.net/user/RejoanVJ" target="blank">VJudge</a></li>
+  <a href="https://www.hackerrank.com/profile/rejoan523" target="blank">HackerRank</a>
 </p>
 
 <p align="center"> 
