@@ -1,25 +1,15 @@
 <p align="center">
   <h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2> 
 </p>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true)
-
-## 💻 Coding Contest Participation Record
-- [Meta Hacker Cup], [stood among top20% in round-1 and participated in the round-2], [2023]
-- [Google Code Jam Farewell Round A], [solved 3/5], [2023]
-- [2022 ICPC Asia Dhaka Regional Online Preliminary Contest],[3rd in Brac University],[2023]
-- [IUPC (Ahmed Zobayer Inter-University Programming Contest, UITS)][15th][2023]
-- [IEEEXtreme 16.0], [9th in country & 731st globally], [2022]
-- [BRAC University Programming Contest 2022][7th][2022]
-  <p>
 ## 👨‍💻 Online Coding profiles
-[<ul>
+<ul>
   <li><a href="https://codeforces.com/profile/Rejoan" target="blank">
-![Python](https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces)&nbsp;</a></li>
+![Codeforces](https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces)&nbsp;</a></li>
   <li><a href="https://leetcode.com/Rejoan/" target="blank">Leetcode</a></li>
   <li><a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank">Beecrowd</a></li>
   <li><a href="https://vjudge.net/user/RejoanVJ" target="blank">VJudge</a></li>
   <li><a href="https://www.hackerrank.com/profile/rejoan523" target="blank">HackerRank</a></li>
-</ul>](https://www.facebook.com/rejoan007/)
+</ul>
 </p>
 
 <p align="center"> 
@@ -32,13 +22,13 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Python](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Python](https://img.shields.io/badge/-DjangoRestFramework-05122A?style=flat&logo=djangorestframework)&nbsp;
-![Python](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Python](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Python](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-![Python](https://img.shields.io/badge/-ReactBootstrap-05122A?style=flat&logo=ReactBootstrap)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![DRF](https://img.shields.io/badge/-DjangoRestFramework-05122A?style=flat&logo=djangorestframework)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![ReactBootstrap](https://img.shields.io/badge/-ReactBootstrap-05122A?style=flat&logo=ReactBootstrap)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-00173D?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-fede00?style=flat&logo=eclipse-ide&logoColor=2C2255)\
