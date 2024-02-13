@@ -2,6 +2,7 @@
   <h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2> 
 </p>
 👨‍💻 &nbsp;Online Coding profiles
+</br>
 <p>
   <a href="https://codeforces.com/profile/Rejoan" target="blank">
      <img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces" alt="Codeforces" width="80" height="20"> 
@@ -11,7 +12,7 @@
   <a href="https://vjudge.net/user/RejoanVJ" target="blank"><img src="https://img.shields.io/badge/-Vjudge-05122A?style=flat&logo=Vjudge" alt="Vjudge" width="60" height="20"> </a>
   <a href="https://www.hackerrank.com/profile/rejoan523" target="blank"><img src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=HackerRank" alt="HackerRank" width="80" height="20"> </a>
 </p>
-
+---
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{Rejoan2020}/count.svg" />
 </p>
@@ -27,7 +28,6 @@
 ![DRF](https://img.shields.io/badge/-DjangoRestFramework-05122A?style=flat&logo=djangorestframework)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![ReactBootstrap](https://img.shields.io/badge/-ReactBootstrap-05122A?style=flat&logo=ReactBootstrap)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-00173D?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -39,6 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)\
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;
 ![Windows-XP](https://img.shields.io/badge/Windows_XP-003399?style=flat&logo=windows-xp&logoColor=white)
 ---
