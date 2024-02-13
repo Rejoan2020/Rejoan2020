@@ -3,7 +3,7 @@
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- Problem solver | quick Learner
+- Interested in problem-solving and open to learn and adapt to new techs.
 - Currently learning and building projects with React & Django stack.
 
 ### 👨🏻‍💻 &nbsp;Online Coding Profiles
