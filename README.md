@@ -4,6 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - Problem solver | quick Learner
+- Currently learning and building projects with React & Django stack.
 
 ### 👨🏻‍💻 &nbsp;Online Coding Profiles
   <a href="https://codeforces.com/profile/Rejoan" target="blank">
