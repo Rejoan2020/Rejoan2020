@@ -12,13 +12,14 @@
 - [BRAC University Programming Contest 2022][7th][2022]
   <p>
 ## 👨‍💻 Online Coding profiles
-<ul>
-  <li><a href="https://codeforces.com/profile/Rejoan" target="blank">Codeforces</a></li>
+[<ul>
+  <li><a href="https://codeforces.com/profile/Rejoan" target="blank">
+![Python](https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces)&nbsp;</a></li>
   <li><a href="https://leetcode.com/Rejoan/" target="blank">Leetcode</a></li>
   <li><a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank">Beecrowd</a></li>
   <li><a href="https://vjudge.net/user/RejoanVJ" target="blank">VJudge</a></li>
   <li><a href="https://www.hackerrank.com/profile/rejoan523" target="blank">HackerRank</a></li>
-</ul>
+</ul>](https://www.facebook.com/rejoan007/)
 </p>
 
 <p align="center"> 
@@ -56,17 +57,11 @@
 
 <p align="center">
   
-<a href="https://github.com/Mynuddin-dev">
+<a href="https://github.com/Rejoan2020">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rejoan2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rejoan2020&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  
-
-  
 </p>
-
-
-
  <p align="center">
      <a href="https://github.com/Rejoan2020/github-readme-streak-stats">
          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rejoan2020's streak"
@@ -81,14 +76,12 @@
   
   <h2 align="center"> 🙋‍♂️ Connect with me </h2>
   <p align="center">
-  <a href="https://www.facebook.com/md.mynuddin.585" target="_blank"><img
+  <a href="https://www.facebook.com/rejoan007/" target="_blank"><img
                 src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
         </a>&nbsp;
-  <a href="https://www.linkedin.com/in/md-mynuddin-6782a3161/" target="_blank"><img
+  <a href="https://www.linkedin.com/in/rejoan-rahman/" target="_blank"><img
                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
                 </a>&nbsp;
-  <a href="https://github.com/Mynuddin-dev" target="_blank"><img
-                src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"> </a>
                 </center>&nbsp;
 </p>
   
