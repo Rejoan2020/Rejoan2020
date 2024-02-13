@@ -60,8 +60,6 @@
          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rejoan2020's streak"
              src="https://github-readme-streak-stats.herokuapp.com/?user=Rejoan2020&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" />
      </a>
-     <p align="center">🔥 Get streak stats for your profile at <a
-             href="https://git.io/streak-stats">git.io/streak-stats</a></p>
  </p>
 
 
