@@ -4,7 +4,7 @@
 ## 👨‍💻 Online Coding profiles
 
   <a href="https://codeforces.com/profile/Rejoan" target="blank">
-     <img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces" alt="Codeforces" width="5" height="6"> 
+     <img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces" alt="Codeforces" width="15" height="20"> 
   </a>
   <a href="https://leetcode.com/Rejoan/" target="blank">Leetcode</a>
   <a href="https://www.beecrowd.com.br/judge/en/profile/300395" target="blank">Beecrowd</a>
