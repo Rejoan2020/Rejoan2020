@@ -2,7 +2,7 @@
   <h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2> 
 </p>
 👨‍💻 &nbsp;Online Coding profiles
-<p><
+<p>
   <a href="https://codeforces.com/profile/Rejoan" target="blank">
      <img src="https://img.shields.io/badge/-Codeforces-05122A?style=flat&logo=Codeforces" alt="Codeforces" width="80" height="20"> 
   </a>
