@@ -3,8 +3,10 @@
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- Interested in problem-solving and open to learn and adapt to new techs.
-- Currently learning and building projects with React & Django stack.
+- Currently focused on learning and building full-stack projects using React.js and Next.js.
+- Passionate about problem-solving, software development, and continuous learning.
+- Open to exploring new technologies and adapting to different tools, frameworks, and development environments.
+- Always looking for opportunities to learn, build, and contribute to meaningful projects.
 
 ### 👨🏻‍💻 &nbsp;Online Coding Profiles
   <a href="https://codeforces.com/profile/Rejoan" target="blank">
